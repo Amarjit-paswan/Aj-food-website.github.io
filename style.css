@@ -10,7 +10,7 @@ html{
 
 header{
     width: 100%;
-    height: 100%;
+    height: 100vh;
     background: url(img/bg1.jpg);
     background-position: center;
     background-repeat: no-repeat;
@@ -187,7 +187,7 @@ header .submit{
 
 #second{
     width: 100%;
-    height: 100%;
+    height: 100vh;
     background: url(img/bg1.jpg);
     position: relative;
 }
@@ -246,7 +246,7 @@ header .submit{
 
 #third{
     width: 100%;
-    height: 250%;
+    height: 250vh;
     background-color: white;
     position: relative;
    
@@ -276,7 +276,7 @@ header .submit{
 
 .third-width{
     width: 100%;
-    height: 140%;
+    height: 140vh;
     position: absolute;
     top: 12%;
     display: grid;
@@ -361,7 +361,7 @@ header .submit{
 
 #gallery{
     width: 100%;
-    height: 120%;
+    height: 120vh;
     padding-top: 20px;
     position: relative;
     top: 2%;
@@ -392,7 +392,7 @@ header .submit{
 
 .gallery-width .gallery-image-box{
     width:95% ;
-    height: 100%;
+    height: 100vh;
     position: relative;
     left: 3%;
 
@@ -411,7 +411,7 @@ header .submit{
 
 .gallery-image-box .gallery-image-detail{
     width: 100%;
-    height: 100%;
+    height: 100vh;
    background-color:rgba(0, 0, 0, 0.8);
     color: white;
     position: absolute;
@@ -473,7 +473,7 @@ header .submit{
 
 #review{
     width: 100%;
-    height: 100%;
+    height: 100vh;
     position: relative;
 }
 
@@ -496,7 +496,7 @@ header .submit{
 
 #review .review-width{
     width: 100%;
-    height: 90%;
+    height: 90vh;
     position: absolute;
     top: 20%;
     display: grid;
@@ -584,7 +584,7 @@ header .submit{
 
 #order{
     width: 100%;
-    height: 100%;
+    height: 100vh;
     background: url(img/bg2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -673,7 +673,7 @@ form  .submit{
 
 #team{
     width: 100%;
-    height: 90%;
+    height: 90vh;
     position: relative;
     background: url(img/bg1.jpg);
     background-repeat: no-repeat;
