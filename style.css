@@ -194,7 +194,7 @@ header .submit{
 
 #second img{
     width: 55%;
-    height: 80%;
+    height: 80vh;
     position: absolute;
     top: 20%;
 
@@ -202,7 +202,7 @@ header .submit{
 
 #second .second-detail{
     width: 40%;
-    height:70% ;
+    height:70vh ;
     position: absolute;
     top: 30%;
     right: 5%;
@@ -361,8 +361,7 @@ header .submit{
 
 #gallery{
     width: 100%;
-        height: 120vh;
-
+    height: 120vh;
     padding-top: 20px;
     position: relative;
     top: 2%;
@@ -393,7 +392,7 @@ header .submit{
 
 .gallery-width .gallery-image-box{
     width:95% ;
-    height: 100vh;
+    height: 100%;
     position: relative;
     left: 3%;
 
@@ -412,7 +411,7 @@ header .submit{
 
 .gallery-image-box .gallery-image-detail{
     width: 100%;
-    height: 100vh;
+    height: 100%;
    background-color:rgba(0, 0, 0, 0.8);
     color: white;
     position: absolute;
@@ -476,6 +475,7 @@ header .submit{
     width: 100%;
     height: 100vh;
     position: relative;
+    top: 10%;
 }
 
 #review .review-head{
@@ -619,7 +619,7 @@ header .submit{
 
 .order-image img{
     width: 100%;
-    height: 75%;
+    height: 75vh;
 }
 
 #order form{
@@ -700,7 +700,7 @@ form  .submit{
 
 #team .team-width{
     width: 96%;
-    height:80% ;
+    height:80vh ;
     margin: 0 auto;
     position: relative;
   
@@ -939,7 +939,7 @@ footer .footer-width{
 @media(max-width:1210px){
     nav{
     width: 20%;
-    height: 100%;
+    height: 100vh;
     background-color: rgba(251, 251, 251, 0.992);
     box-shadow: 5px 2px 15px black;
     position: fixed;
@@ -1104,7 +1104,7 @@ header .submit{
 }
 /* nav{
     width: 20%;
-    height: 100%;
+    height: 100vh;
     background-color: rgba(251, 251, 251, 0.992);
     box-shadow: 5px 2px 15px black;
     position: fixed;
